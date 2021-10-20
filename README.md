@@ -14,6 +14,6 @@ https://github.com/Ahmedkhalaf477/checkport
 
 cd checkport/
 
-python Checkport.py
+python Chopopy
 
 Ex Enter Host Ex : www.facebook.com
