@@ -17,3 +17,10 @@ cd checkport/
 python Ckhopo.py
 
 Ex Enter Host Ex : www.facebook.com
+ 
+
+
+Install For Kali 
+
+
+python3 Ckhopo.py
